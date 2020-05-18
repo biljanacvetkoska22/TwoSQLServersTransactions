@@ -1,0 +1,11 @@
+C:\Users\mohamad\Desktop\Temp\Pluralsight\My Recordings\Transactions\Module4 - WCF Transactions\Demo\TxService\bin\TxService.dll
+C:\Users\mohamad\Desktop\Temp\Pluralsight\My Recordings\Transactions\Module4 - WCF Transactions\Demo\TxService\bin\TxService.pdb
+C:\Users\mohamad\Desktop\Temp\Pluralsight\My Recordings\Transactions\Module4 - WCF Transactions\Demo\TxService\obj\Debug\TxService.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Temp\Pluralsight\My Recordings\Transactions\Module4 - WCF Transactions\Demo\TxService\obj\Debug\TxService.dll
+C:\Users\mohamad\Desktop\Temp\Pluralsight\My Recordings\Transactions\Module4 - WCF Transactions\Demo\TxService\obj\Debug\TxService.pdb
+D:\understanding-dotnet-wcf-transactions\materials\4-understanding-dotnet-wcf-transactions-m4-wcf-exercise-files\Demo\TxService\bin\TxService.dll.config
+D:\understanding-dotnet-wcf-transactions\materials\4-understanding-dotnet-wcf-transactions-m4-wcf-exercise-files\Demo\TxService\bin\TxService.dll
+D:\understanding-dotnet-wcf-transactions\materials\4-understanding-dotnet-wcf-transactions-m4-wcf-exercise-files\Demo\TxService\bin\TxService.pdb
+D:\understanding-dotnet-wcf-transactions\materials\4-understanding-dotnet-wcf-transactions-m4-wcf-exercise-files\Demo\TxService\obj\Debug\TxService.csprojResolveAssemblyReference.cache
+D:\understanding-dotnet-wcf-transactions\materials\4-understanding-dotnet-wcf-transactions-m4-wcf-exercise-files\Demo\TxService\obj\Debug\TxService.dll
+D:\understanding-dotnet-wcf-transactions\materials\4-understanding-dotnet-wcf-transactions-m4-wcf-exercise-files\Demo\TxService\obj\Debug\TxService.pdb

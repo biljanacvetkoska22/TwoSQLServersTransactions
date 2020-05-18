@@ -1,0 +1,2 @@
+open cmd prompt for vs 2015
+C:\Windows\system32>regasm.exe /codebase wsatui.dll 

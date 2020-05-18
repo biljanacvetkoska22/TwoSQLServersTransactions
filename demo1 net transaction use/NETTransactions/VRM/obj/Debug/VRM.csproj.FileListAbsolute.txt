@@ -1,0 +1,10 @@
+C:\Users\mohamad\Desktop\Pluralsight\My Recordings\Transactions\Demo\NETTransactions\VRM\bin\Debug\VRM.dll
+C:\Users\mohamad\Desktop\Pluralsight\My Recordings\Transactions\Demo\NETTransactions\VRM\bin\Debug\VRM.pdb
+C:\Users\mohamad\Desktop\Pluralsight\My Recordings\Transactions\Demo\NETTransactions\VRM\obj\Debug\VRM.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Pluralsight\My Recordings\Transactions\Demo\NETTransactions\VRM\obj\Debug\VRM.dll
+C:\Users\mohamad\Desktop\Pluralsight\My Recordings\Transactions\Demo\NETTransactions\VRM\obj\Debug\VRM.pdb
+D:\understanding-dotnet-wcf-transactions\materials\3-understanding-dotnet-wcf-transactions-m3-dotnet-exercise-files\demos\Demo\NETTransactions\VRM\bin\Debug\VRM.dll
+D:\understanding-dotnet-wcf-transactions\materials\3-understanding-dotnet-wcf-transactions-m3-dotnet-exercise-files\demos\Demo\NETTransactions\VRM\bin\Debug\VRM.pdb
+D:\understanding-dotnet-wcf-transactions\materials\3-understanding-dotnet-wcf-transactions-m3-dotnet-exercise-files\demos\Demo\NETTransactions\VRM\obj\Debug\VRM.csprojResolveAssemblyReference.cache
+D:\understanding-dotnet-wcf-transactions\materials\3-understanding-dotnet-wcf-transactions-m3-dotnet-exercise-files\demos\Demo\NETTransactions\VRM\obj\Debug\VRM.dll
+D:\understanding-dotnet-wcf-transactions\materials\3-understanding-dotnet-wcf-transactions-m3-dotnet-exercise-files\demos\Demo\NETTransactions\VRM\obj\Debug\VRM.pdb
